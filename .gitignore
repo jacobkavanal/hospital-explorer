@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+data/
+
+# Local secrets and generated artifacts
+.env
+.env.*
+!.env.example
+.DS_Store
+*.pyc
+raw/
+deeplake-learning/hospital_sample/
+deeplake-learning/cms_inpatient_sample/
